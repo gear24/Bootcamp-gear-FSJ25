@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+    color:darkblue;
+}
+
+.header .navbar .logo h2 span{
+    font-size: 2.5em;
+}
+
+.header .navbar .logo h2 span{
+    color: rgb(10, 165, 165);
+    text-shadow: 1px 1px 3px white;
+}
+
+.header .navbar .menu-navbar{
+    width: 40vw;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.header .navbar .logo img{
+    width: 20%;
+    height: auto;
+}
